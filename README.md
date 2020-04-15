@@ -1,5 +1,9 @@
 <img src="https://github.com/rabobank-cdc/DeTTECT/wiki/images/logo.png" alt="DeTT&CT" width=30% height=30%>
 
+#### Threat Hunting Training Version
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rcobb-scwx/DeTTECT/master)
+
 #### Detect Tactics, Techniques & Combat Threats
 Latest version: [1.3](https://github.com/rabobank-cdc/DeTTECT/wiki/Changelog#version-13)
 
