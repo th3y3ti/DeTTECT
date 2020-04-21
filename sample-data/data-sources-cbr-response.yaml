@@ -134,9 +134,9 @@ data_sources:
   - data_source_name: Binary file metadata
     date_registered:
     date_connected:
-    products: [cbapi.response.models.Binary]
+    products: [cbapi.response.models.Binary.VersionInfo, cbapi.response.models.Binary.SigningData]
     available_for_data_analytics: True
-    comment: 'FileVersionInfo, signature info'
+    comment: ''
     data_quality:
       device_completeness: 0
       data_field_completeness: 3
